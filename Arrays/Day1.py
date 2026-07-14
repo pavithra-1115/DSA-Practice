@@ -291,3 +291,4 @@ for num in arr:
     xor2 ^= num
 
 print(xor1 ^ xor2)
+
